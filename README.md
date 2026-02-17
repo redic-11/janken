@@ -2,3 +2,4 @@
 JAVAオブジェクト指向勉強用
 <test>
 master
+kottigamein
